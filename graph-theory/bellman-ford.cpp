@@ -1,5 +1,8 @@
 /*
 Bellman-Ford Shortest Path Algorithm
+
+(V - 1) times relaxation. (Proof by Induction)
+Negative cycle detection: relaxate one more time.
 */
 #include <bits/stdc++.h>
 using namespace std;

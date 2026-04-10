@@ -1,5 +1,7 @@
 /*
 Dijkstra's Shortest Path Algorithm
+
+Greedy BFS: Uses Min-Heap.
 */
 #include <bits/stdc++.h>
 using namespace std;
